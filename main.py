@@ -1,3 +1,5 @@
 import rpg
+import logging
 def main():
-    pass
+    logger=logging.getLogger("gamelog")
+    logging.basicConfig(filename='game.log')
