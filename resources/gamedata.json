@@ -1,0 +1,17 @@
+{
+    "metadata":{
+        "name":"Example Game"
+        
+    },
+    "directories":{
+        "log_directory":"/logs"
+    },
+    "items":{
+        "weapons":{},
+        "tools":{},
+        "consumables":{},
+        "wearables":{},
+        "other":{}
+    }
+
+}
